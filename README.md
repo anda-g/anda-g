@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I told my code to "sleep(1000)"… now it won’t wake up.
 
 - ### 🛠️ Technologies & Tools:
-- **Languages:** Java, Kotlin, HTML, CSS
+- **Languages:** C/C++, Java, Kotlin, HTML, CSS
 - **Frameworks:** Jetpack Compose, Tailwind
 - **Tools:** Android Studio, IntelliJ IDEA, Git, VS Code, Chrome
 
