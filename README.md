@@ -8,7 +8,7 @@
 
 - ### 🛠️ Technologies & Tools:
 - **Languages:** C/C++, Java, Kotlin, HTML, CSS
-- **Frameworks:** Jetpack Compose, Tailwind
+- **Skill:** Jetpack Compose, Tailwind
 - **Tools:** Android Studio, IntelliJ IDEA, Git, VS Code, Chrome
 
 
